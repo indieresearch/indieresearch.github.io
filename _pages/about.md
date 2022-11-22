@@ -2,24 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <i>A lifestyle blog for curiosity-driven researchers</i>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    <p>AI depiction of an indie researcher (<a href='https://www.craiyon.com'>craiyon.com</a>)</p>
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Research is a funny thing because it can be both a job and a calling.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The relationship between the two is complicated. Some people seem lucky enough to be able do both, but in practice, this isn't as common as you think. These days, professors spend much less time on research than they would like to, let alone, on research that they feel passionate about.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In this blog, we aim to disentangle the two positions:
+<ul>
+  <li>research as a job, and </li>
+  <li>research as a calling</li>
+</ul>
+and explore if it's possible to do curiosity-driven research even if it's not your job.
+
+We're not against the academic path. Becoming an academic is one of the most common ways to do curiosity-driven research, which is ultimately what we're trying to achieve.
+
+But our mantra is that there is no free lunch: even professors spend most of their time doing stuff they don't want to do.
+
+So with that in mind, might we consider other alternatives?
+
+If you would like to design your life in a way that gives you the resources (skills, time, money, community) to do research for the sheer pleasure of it, then this blog is for you. But remember: there is no free lunch. Building the life that you want is a deliberate pursuit that takes time and work.    
