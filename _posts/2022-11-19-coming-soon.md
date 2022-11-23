@@ -43,4 +43,4 @@ In the mean time, if the [description](/) resonated at your wavelength, please:
 I love getting to know people around the world, so send me an [email](mailto:indieresearchblog@gmail.com). Tell me where you are and what you’re working on. I reply to all.
 
 May you go with the flow,  
-Alex
+The Indie Researcher
