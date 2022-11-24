@@ -16,6 +16,8 @@ layout: default
 <div class="post">
 
   <header class="post-header">
+    <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+    <p style="margin-bottom:26px;"></p>
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%B %-d, %Y" }}{%- if page.author -%} • {{ page.author }}{%- endif -%}{%- if page.meta -%} • {{ page.meta }}{%- endif -%}</p>
     <p class="post-tags">
@@ -41,6 +43,8 @@ layout: default
 
   <article class="post-content">
     {{ content }}
+    <hr>
+    <p style="font-family: monospace; font-size: 12px">{{- page.imagecredit -}}</p>
   </article>
 
   {%- if site.disqus_shortname and page.comments -%}
