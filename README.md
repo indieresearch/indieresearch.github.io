@@ -1,5 +1,5 @@
-### [Indie Research](https://indieresearch.github.io/)
-#### A lifestyle blog for curiosity-driven researchers
+### [Indie Research](https://indieresearch.org)
+#### Disentangle your job from your calling
 
 Research is a funny thing because it can be both a job and a calling.
 
