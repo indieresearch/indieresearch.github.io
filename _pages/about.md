@@ -31,9 +31,9 @@ At <b>Indie Research</b>, we aim to disentangle the two positions:
 </ul>
 and explore if it's possible to do curiosity-driven research even if it's not your job.
 
-Our goal is to develop an actionable framework for acquiring the resources needed (skills, time, money, community) to do research for the sheer pleasure of it.
+Our goal is to develop an actionable framework for researchers to do the research that matters to them, on their own terms.
 
-You can join us on this journey by following our [blog](./blog). Or you can check back in a few months to see how the framework is coming along.
+You can join us on this journey by following our [blog](./blog/2022/what-can-you-expect/).
 
 <hr>
 <p style="font-family: monospace; font-size: 12px">Image: An indie researcher (generated at <a href='https://www.craiyon.com'>craiyon.com</a>)</p>
