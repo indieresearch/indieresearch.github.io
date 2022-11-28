@@ -62,7 +62,7 @@ Well, that's mostly what you can expect from this blog. Although, we're sure tha
 
 If any of this sounds interesting to you, please:
 - add this site to your bookmarks
-- follow us on [twitter](https://twitter.com/IndieResrchBlog)
+- follow us on [twitter](https://twitter.com/_IndieResearch_)
 - subscribe to the [RSS Feed](https://indieresearch.github.io/feed.xml) for the blog.
 
 <!-- Also, take a look at our resources page, which contains a growing list of relevant links. -->
