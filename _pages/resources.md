@@ -7,8 +7,9 @@ nav: true
 nav_order: 1
 ---
 
-No affiliate links, just my suggestions.
-If you want me to add something specific to the list, message me on [twitter](https://twitter.com/_IndieResearch_) or send me an [email](mailto:indieresearchblog@gmail.com).
+No affiliate links, just our suggestions.
+
+If you'd like us to add something specific to the list, message us on [twitter](https://twitter.com/_IndieResearch_) or send us an [email](mailto:indieresearchblog@gmail.com).
 
 #### Independent Research Institutes/Organizations
 - [IGDORE](https://igdore.org): an independent research institute dedicated to improving the quality of science, science education, and quality of life for scientists, students and their families.
