@@ -65,7 +65,7 @@ If any of this sounds interesting to you, please:
 - follow us on [twitter](https://twitter.com/_IndieResearch_)
 - subscribe to the [RSS Feed](https://indieresearch.github.io/feed.xml) for the blog.
 
-Also, take a look at our resources page, which contains a growing list of relevant links.
+Also, take a look at our [resources](./resources) page, which contains a growing list of relevant links.
 
 Finally, we love getting to know people around the world, so send us an [email](mailto:indieresearchblog@gmail.com). Tell us where you are and what you’re working on. We reply to all!
 
