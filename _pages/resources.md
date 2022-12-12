@@ -11,10 +11,10 @@ No affiliate links, just our suggestions.
 
 If you'd like us to add something specific to the list, message us on [twitter](https://twitter.com/_IndieResearch_) or send us an [email](mailto:indieresearchblog@gmail.com).
 
-#### Independent Research Institutes/Organizations
+#### Institutes/Organizations
+- [The National Coalition of Independent Scholars](https://www.ncis.org): a 501(c)(3) non-profit organization providing professional affiliation, support services, and camaraderie to scholars outside of tenured academia.
 - [IGDORE](https://igdore.org): an independent research institute dedicated to improving the quality of science, science education, and quality of life for scientists, students and their families.
 - [Ronin Institute](https://ronininstitute.org): the Ronin Institute’s mission is to provide an academic community for people who are committed to truth and empathy.
-
 
 #### Problems in Academia
 - [If you love research, academia may not be for you](https://www.timeshighereducation.com/blog/if-you-love-research-academia-may-not-be-you) by David Matthews (Times Higher Education).
@@ -27,8 +27,9 @@ If you'd like us to add something specific to the list, message us on [twitter](
 - [Financial Independence Reddit](https://www.reddit.com/r/financialindependence/): A place for people who are or want to become Financially Independent (FI), which means not having to work for money.
 
 #### Funding
-- [Understanding science funding in tech, 2011-2021](https://nadia.xyz/science-funding): Article by Nadia Asparouhova about how philanthropy in tech is becoming geared towards "doing science better".
-- [Convergent Research](https://www.convergentresearch.org/about): Launches large-scale, high-impact science projects to fill gaps in the R&D ecosystem.
+- [Understanding science funding in tech, 2011-2021](https://nadia.xyz/science-funding): article by Nadia Asparouhova about how philanthropy in tech is becoming geared towards "doing science better".
+- [Convergent Research](https://www.convergentresearch.org/about): launches large-scale, high-impact science projects to fill gaps in the R&D ecosystem.
+- [Funding the commons](https://fundingthecommons.io/nov21/): a virtual summit for individuals and organizations building new models of sustainable public goods funding and value alignment in open source networks.
 
 #### Other Items of Interest
 - [The Indie Manifesto](https://sites.google.com/indieresearch.net/home/indie-research/a-manifesto) by Francisco J. Jariego (independent researcher).
